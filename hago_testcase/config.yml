@@ -1,0 +1,14 @@
+platformName: 'Android'
+platformVersion: '11'
+deviceName: 'Samsung A42 5G'
+udid: 'R5CNA0VRV6P'
+realDevice: 'true'
+appPackage: 'com.ha_bookha_reactnative'
+appActivity: 'com.ha_bookha_reactnative.MainActivity'
+driver: 'http://127.0.0.1:4723/wd/hub'
+unicodeKeyboard: true
+resetKeyboard: true
+newSessionWaitTimeout: 600
+newCommandTimeout: 30000
+endSessionWaitTimeout: 600
+

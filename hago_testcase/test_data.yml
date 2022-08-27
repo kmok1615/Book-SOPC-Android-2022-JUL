@@ -1,0 +1,387 @@
+patient: "NORMAL PATIENT"
+app_lang: "ENGLISH" # should be either 中文 or ENGLISH
+font_size: "NORMAL" # should be either SMALL or NORMAL or LARGE
+
+testreport_switch: "No" # should be either Yes or No
+
+book_sopc_button:
+    中文: "預約專科門診新症"
+    ENGLISH: "Book SOPC"
+
+book_ah_clinic_button:
+    中文: "預約專職醫療門診新症"
+    ENGLISH: "Book AH Clinic"
+
+submit_application_button:
+    中文: "遞交預約"
+    ENGLISH: "Submit Application"
+
+enquiry_button:
+    中文: "我的查詢"
+    ENGLISH: "Enquiry"
+
+my_application_status_button:
+    中文: "我的預約"
+    ENGLISH: "My Application Status"
+
+my_application_status_title:
+    中文: "我的預約狀況"
+    ENGLISH: "My Application Status"
+
+waiting_time_title:
+    中文: "專科新症輪候時間"
+    ENGLISH: "Waiting Time"
+
+information_about_SOPC_title:
+    中文: "專科門診資訊"
+    ENGLISH: "Information about SOPC"
+
+service_guide_button:
+    中文: "服務指引"
+    ENGLISH: "Service Guide"
+
+faq_link:
+    中文: "常見問答"
+    ENGLISH: "Frequently Asked Questions"
+
+book_for_self_button:
+    中文: "為自己預約"
+    ENGLISH: "Book for self"
+
+book_for_others_button:
+    中文: "為他人預約"
+    ENGLISH: "Book for others"
+
+yes_button:
+    中文: "是"
+    ENGLISH: "Yes"
+
+no_button:
+    中文: "否"
+    ENGLISH: "No"
+
+not_sure_button:
+    中文: "不清楚"
+    ENGLISH: "Not Sure"
+
+cancel_button:
+    中文: "取消"
+    ENGLISH: "Cancel"
+
+close_button:
+    中文: "關閉"
+    ENGLISH: "Close"
+
+booking_in_person_button:
+    中文: "親臨預約"
+    ENGLISH: "Booking in person"
+
+continue_button:
+    中文: "繼續"
+    ENGLISH: "Continue"
+
+accept_button:
+    中文: "同意"
+    ENGLISH: "Accept"
+
+CANCEL_button:
+    中文: "取消"
+    ENGLISH: "CANCEL"
+
+Low_Case_Confirm_button:
+    中文: "確認"
+    ENGLISH: "Confirm"
+
+CONFIRM_button:
+    中文: "確認"
+    ENGLISH: "CONFIRM"
+
+pop_up_CONFIRM_button:
+    中文: "確定"
+    ENGLISH: "CONFIRM"
+
+spinner_specialty:
+    中文: "耳鼻喉科 - Ear, Nose, Throat"
+    ENGLISH: "Ear, Nose, Throat"
+
+spinner_specialty_02_03:
+    中文: "婦科 (不包括產科) - Gynaecology (not include Obstetrics)"
+    ENGLISH: "Gynaecology (not include Obstetrics)"
+
+spinner_hospital:
+    中文: "將軍澳醫院(SIT)"
+    ENGLISH: "Tseung Kwan O Hospital(SIT)"
+
+spinner_hospital_02_03:
+    中文: "仁濟醫院(SIT)"
+    ENGLISH: "Yan Chai Hospital(SIT)"
+
+next_button:
+    中文: "下一步"
+    ENGLISH: "Next"
+
+HKID_option:
+    中文: "香港身份證"
+    ENGLISH: "Hong Kong Identity Card"
+
+HKBC_option:
+    中文: "香港出生證明書"
+    ENGLISH: "Hong Kong Birth Certificate"
+
+OK_button: 
+    中文: "確定"
+    ENGLISH: "OK"
+
+Photo_OK_button: 
+    中文: "使用相片"
+    ENGLISH: "OK"
+
+submit_docuement_user_guide_text:
+    中文: "用戶指引"
+    ENGLISH: "User guide"
+
+submit_docuement_guidelines_text:
+    中文: "拍攝指引"
+    ENGLISH: "Guidelines"
+
+scan_qr_code_user_guide_text:
+    中文: "user guide"
+    ENGLISH: "user guide"
+
+edit_button:
+    中文: "修改"
+    ENGLISH: "Edit"
+
+edit_prefix_text:
+    中文: "(修改)"
+    ENGLISH: "(Edit)"
+
+please_click_here_to_check_link:
+    中文: "請按此核對"
+    ENGLISH: "Please click here to check"
+
+Complete_button:
+    中文: "完成"
+    ENGLISH: "Complete"
+
+sopc_booking_title:
+    中文: "專科門診新症預約"
+    ENGLISH: "Specialist Out-patient Clinics Booking"
+
+ha_booking_title:
+    中文: "專職醫療門診新症預約"
+    ENGLISH: "Allied Health Clinic Booking"
+
+cancel_application_button:
+    中文: "取消我的預約申請"
+    ENGLISH: "Cancel Application"
+
+patient_correspondence_address_text:
+    中文: "病人通訊地址"
+    ENGLISH: "Patient’s Correspondence Address"
+
+please_click_here_to_check_link:
+    中文: "請按此核對"
+    ENGLISH: "Please click here to check"
+
+other_remarks_link:
+    中文: "其他備註"
+    ENGLISH: "Other remarks"
+
+add_to_calendar_button:
+    中文: "新增至日曆"
+    ENGLISH: "Add to calendar"
+
+
+#### Patient Information Data
+patient_surname:
+    中文: "陳"
+    ENGLISH: "CHAN"
+
+patient_givenname:
+    中文: "大文"
+    ENGLISH: "Tai Man"
+
+patient_surname_02_01:
+    中文: "陳"
+    ENGLISH: "CHAN"
+
+patient_givenname_02_01:
+    中文: "大文"
+    ENGLISH: "Tai Man"
+
+patient_surname_02_03:
+    中文: "陳"
+    ENGLISH: "CHAN"
+
+patient_givenname_02_03:
+    中文: "大文"
+    ENGLISH: "Tai Man"
+
+patient_surname_04_01:
+    中文: "陳"
+    ENGLISH: "CHAN"
+
+patient_givenname_04_01:
+    中文: "大文"
+    ENGLISH: "Tai Man"
+
+patient_surname_04_03:
+    中文: "陳"
+    ENGLISH: "CHAN"
+
+patient_givenname_04_03:
+    中文: "大文"
+    ENGLISH: "Tai Man"
+
+patient_address:
+    中文: "香港九龍新界"
+    ENGLISH: "Patient Address"
+
+patient_address_02_01:
+    中文: "香港九龍新界"
+    ENGLISH: "Patient Address"
+
+patient_address_02_03:
+    中文: "香港九龍新界"
+    ENGLISH: "Patient Address"
+
+patient_address_04_01:
+    中文: "香港九龍新界"
+    ENGLISH: "Patient Address"
+
+patient_address_04_03:
+    中文: "香港九龍新界"
+    ENGLISH: "Patient Address"
+
+Select_Specialty_spinner:
+    中文: "選擇專科"
+    ENGLISH: "Select Specialty："
+
+Select_Hospital_spinner:
+    中文: "選擇醫院"
+    ENGLISH: "Select Hospital："
+
+reference_number_title:
+    中文: "參考編號"
+    ENGLISH: "Reference number"
+
+specialty_06_09:
+    中文: "耳鼻喉科"
+    ENGLISH: "Ear, Nose, Throat"
+
+specialty_06_10:
+    中文: "內科"
+    ENGLISH: "Medicine"
+
+specialty_hospital_06_10:       ## Should be in Hong Kong Island and having related Specialty
+    中文: "東華醫院"
+    ENGLISH: "Tung Wah Hospital"
+
+tab_hk_island:
+    中文: "香港島"
+    ENGLISH: "Hong Kong Island"
+    
+tab_kowloon:
+    中文: "九龍"
+    ENGLISH: "Kowloon"
+   
+tab_new_territories:
+    中文: "新界"
+    ENGLISH: "New Territories"
+
+call_button:
+    中文: "致電"
+    ENGLISH: "Call"
+       
+call_later_button:
+    中文: "稍後致電"
+    ENGLISH: "Call later"
+
+
+patient_mobilenumber: 99887766
+patient_mobilenumber_02_01: 99887766
+patient_mobilenumber_02_03: 99885544
+patient_mobilenumber_03_01: 99887766
+patient_mobilenumber_03_03: 99885544
+patient_mobilenumber_04_01: 99887766
+patient_mobilenumber_04_03: 99885544
+patient_mobilenumber_05_01: 99887766
+patient_mobilenumber_05_03: 99885544
+patient_reference_number_incomplete: 333
+patient_reference_number_invalid: 1234567
+patient_reference_number_06_01: 4976783     # Please use reference number generated in previous tests
+patient_reference_number_06_02: 7249816     # Application Requires Contact and Re-submission
+patient_reference_number_06_03: 2099125     # Application Requires Re-submission
+patient_reference_number_06_04: 3767993     # Application Completed
+patient_reference_number_06_05: 8973711     # Please use any reference number generated by book for others which can be cancelled
+patient_reference_number_06_06: 6129019     # Application Requires Re-submission
+patient_reference_number_06_07: 4910451     # Reference number of application cancelled in previous tests
+patient_reference_number_06_08: 2772085
+
+
+HKID_Letter_02_01: Q
+HKID_Body_Digits_02_01: '123456'
+HKID_Last_Digit_02_01: '7' # Last Digit should be sent as text
+
+HKID_Letter_02_03: Q
+HKID_Body_Digits_02_03: '000007'
+HKID_Last_Digit_02_03: '4' # Last Digit should be sent as text
+
+HKID_Letter_03_01: Q
+HKID_Body_Digits_03_01: '123456'
+HKID_Last_Digit_03_01: '7' # Last Digit should be sent as text
+
+HKID_Letter_03_03: Q
+HKID_Body_Digits_03_03: '000007'
+HKID_Last_Digit_03_03: '4' # Last Digit should be sent as text
+
+HKID_Letter_04_01: Q
+HKID_Body_Digits_04_01: '123456'
+HKID_Last_Digit_04_01: '7' # Last Digit should be sent as text
+
+HKID_Letter_04_03: Q
+HKID_Body_Digits_04_03: '000007'
+HKID_Last_Digit_04_03: '4' # Last Digit should be sent as text
+
+HKID_Letter_05_01: Q
+HKID_Body_Digits_05_01: '123456'
+HKID_Last_Digit_05_01: '7' # Last Digit should be sent as text
+
+HKID_Letter_05_03: Q
+HKID_Body_Digits_05_03: '000007'
+HKID_Last_Digit_05_03: '4' # Last Digit should be sent as text
+
+HKID_Letter_06_01: Q
+HKID_Body_Digits_06_01_invalid: '999999'
+HKID_Body_Digits_06_01: '123456'
+HKID_Last_Digit_06_01: '7' # Last Digit should be sent as text
+
+HKID_Letter_06_02: A
+HKID_Body_Digits_06_02: '179743'
+HKID_Last_Digit_06_02: '6' # Last Digit should be sent as text
+
+HKID_Letter_06_03: A
+HKID_Body_Digits_06_03: '123456'
+HKID_Last_Digit_06_03: '3' # Last Digit should be sent as text
+
+HKID_Letter_06_04: S
+HKID_Body_Digits_06_04: '222124'
+HKID_Last_Digit_06_04: '3' # Last Digit should be sent as text
+
+HKID_Letter_06_05: A
+HKID_Body_Digits_06_05: '123456'
+HKID_Last_Digit_06_05: '3' # Last Digit should be sent as text
+
+HKID_Letter_06_06: A
+HKID_Body_Digits_06_06: '123456'
+HKID_Last_Digit_06_06: '3' # Last Digit should be sent as text
+
+HKID_Letter_06_07: Y
+HKID_Body_Digits_06_07: '132077'
+HKID_Last_Digit_06_07: '5' # Last Digit should be sent as text
+
+HKID_Letter_06_08: S
+HKID_Body_Digits_06_08: '222110'
+HKID_Last_Digit_06_08: '3' # Last Digit should be sent as text
+
